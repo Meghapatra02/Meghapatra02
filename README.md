@@ -17,14 +17,11 @@
 
 # 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,github,vscode" />
-</p>
-
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-teal?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-yellow?style=for-the-badge)
 ---
-
-📧 Email: your-email@gmail.com
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=Meghapatra02&color=blue)

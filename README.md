@@ -10,7 +10,7 @@
 
 🎓 B.Tech CSE Student  
 💻 Learning Python and Data Structures & Algorithms  
-🌱 Exploring Web Development and GitHub  
+🌱 Exploring GitHub 
 🚀 Interested in Software Development  
 
 ---
@@ -22,26 +22,6 @@
 </p>
 
 ---
-
-# 📊 GitHub Stats
-
-![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghapatra02&show_icons=true&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Meghapatra02&theme=tokyonight)
-
----
-
-# 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghapatra02&layout=compact&theme=tokyonight)
-
----
-
-# 🌐 Connect With Me
 
 📧 Email: your-email@gmail.com
 
